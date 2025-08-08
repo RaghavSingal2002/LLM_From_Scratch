@@ -10,12 +10,6 @@ Tech Stack & Tools
 
 Architecture Overview
 
-Project Workflow
-
-Results & Evaluation
-
-Getting Started
-
 🎯 Project Motivation
 While large-scale models like GPT-3 are powerful, they are often generalized. The primary motivation for this project was to explore the end-to-end process of building a more specialized, smaller-scale LLM that could be fine-tuned for precise, instruction-based tasks. This involved a deep dive into the underlying Transformer architecture, data processing at scale, and advanced fine-tuning techniques to create a model optimized for realistic conversational scenarios.
 
